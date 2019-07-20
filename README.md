@@ -2,7 +2,7 @@
 
 #### Description
 SPADAXsys (pronunciation: s'padaksis) is an acronym from <b>S</b>moothed <b>PA</b>rticle <b>D</b>yn<b>A</b>mics 
-for industrial comple<b>X</b> systems. 
+for industrial comple<b>X</b> <b>sys</b>tems. 
 It provides C++ APIs for physical accurate simulation and aims to model coupled industrial dynamic systems including fluid, solid, multi-body dynamics 
 and beyond with a meshless computational method using smoothed particle discretization. 
 
