@@ -1,21 +1,22 @@
 # SPHinXsys
 
 #### Description
-SPHinXsys (pronunciation: s'finksis) is an acronym from Smoothed Particle Hydrodynamics for industrial compleX systems. 
+SPADAXsys (pronunciation: s'padaksis) is an acronym from <b>S</b>moothed PArticle <b>D</b>yn<b>A</b>mics 
+for industrial comple<b>X</b> systems. 
 It provides C++ APIs for physical accurate simulation and aims to model coupled industrial dynamic systems including fluid, solid, multi-body dynamics 
-and beyond with SPH (smoothed particle hydrodynamics), a meshless computational method using particle discretization. 
-Please check the documentation of the code at https://xiangyu-hu.github.io/SPHinXsys/
+and beyond with a meshless computational method using smoothed particle discretization. 
 
-SPHinXsys is a multi-physics, multi-resolution SPH library. 
+
+SPADAXsys is a library for multi-physics, multi-resolution smoothed particle dynamics (SPD) simulations. 
 Although it is not a standalone application itself, 
 many examples designated for the specific type of applications are provided.
 
 #### Software Architecture
-SPHinXsys is cross-platform can be compiled and used in Windows, Linux and Apple systems.
+SPADAXsys is cross-platform can be compiled and used in Windows, Linux and Apple systems.
 
 #### Installation
 
-The detailed installation instructions for all platforms can be found in the pdf file /tutorials/SphinXsys.pdf.
+The detailed installation instructions for all platforms can be found in the pdf file /tutorials/SPADAXsys.pdf.
 
 #### Contribution
 
