@@ -1,4 +1,4 @@
-# SPHinXsys
+# SPADAXsys
 
 #### Description
 SPADAXsys (pronunciation: s'padaksis) is an acronym from <b>S</b>moothed PArticle <b>D</b>yn<b>A</b>mics 
