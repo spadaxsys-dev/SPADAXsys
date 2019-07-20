@@ -20,7 +20,7 @@ The detailed installation instructions for all platforms can be found in the pdf
 
 #### Contribution
 
-Any contribution to SPHinXsys are welcome. For this, you will do the following steps:
+Any contribution to SPADAXsys are welcome. For this, you will do the following steps:
 
 1. Fork the project & clone locally.
 2. Create an upstream remote and sync your local copy before you branch.
